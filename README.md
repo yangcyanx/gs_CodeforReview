@@ -8,7 +8,7 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://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@github.com/Anonymous-yxy/CodeForReview.git
+git clone https://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@github.com/Anonymous-yxy/gogs_CodeforReview.git
 
 conda env create --file environment.yml
 conda activate gogs
