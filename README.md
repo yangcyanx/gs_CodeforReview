@@ -96,7 +96,7 @@ CUDA_VISIBLE_DEVICES=0 python train_ir.py -s data/glossy_syn/angel --eval --star
 ```
 
 ## 📊 Evaluation
-This is the [result](https://huggingface.co/prs-eth/marigold-depth-v1-1/tree/main) of our pre-training for evaluation, just place it in the root directory
+This is the [result](https://gogs-3dv-2026.oss-accelerate-overseas.aliyuncs.com/outputs.zip?OSSAccessKeyId=LTAI5t9pqduRSPBVZFnZGXwe&Expires=1766034148&Signature=N%2FB%2BtAZt%2FF8ULQcM%2BjU2d7DoGF0%3D) of our pre-training for evaluation, just place it in the root directory
 
 See `eval.sh` for evaluation scripts.
 ### Stage 1: geometry reconstruction
