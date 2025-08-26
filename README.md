@@ -1,5 +1,5 @@
-# 3D Vision 2026 Submission: [oIoNLgPNmX/GOGS: High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels]
-**Anonymous Code Repository for 3DV 2026 Submission**  
+# High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels
+**Anonymous Code Repository for Review**  
 
 ## 🛠️ Pipeline
 <div align="center">
