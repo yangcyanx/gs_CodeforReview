@@ -1,4 +1,4 @@
-# High-Fidelity Geometry and Relighting for Glossy Objects via Gaussian Surfels
+# Gaussian Surfel-based Geometry Reconstruction and Photorealistic Relighting for Glossy Objects
 **Anonymous Code Repository for Review**  
 
 ## 🛠️ Pipeline
@@ -8,10 +8,10 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/Anonymous-yxy/gogs_CodeforReview.git
+git clone https://github.com/Anonymous-yxy/gs_CodeforReview.git
 
 conda env create --file environment.yml
-conda activate gogs
+conda activate gs
 
 # Install diff-surfel-rasterization and simple-knn
 pip install submodules/diff-surfel-rasterization submodules/simple-knn
