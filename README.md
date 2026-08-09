@@ -8,7 +8,7 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/Anonymous-yxy/gs_CodeforReview.git
+git clone https://github.com/yangcyanx/gs_CodeforReview.git
 
 conda env create --file environment.yml
 conda activate gs
